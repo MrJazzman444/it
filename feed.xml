@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Отдел ИТ</title>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/</link>
+    <atom:link href="/it/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/it/</link>
     <description>Сайт отдела ИТ Филиала ФКУ 'Налог-Сервис' ФНС России в Омской области</description>
-    <pubDate>Tue, 12 Jan 2021 23:16:05 +0600</pubDate>
+    <pubDate>Wed, 13 Jan 2021 00:02:38 +0600</pubDate>
     
       <item>
         <title>С наступающим новым годом!</title>
-        <link>/2020/12/31/new-year.html</link>
-        <guid isPermaLink="true">/2020/12/31/new-year.html</guid>
+        <link>/it/2020/12/31/new-year.html</link>
+        <guid isPermaLink="true">/it/2020/12/31/new-year.html</guid>
         <description>&lt;p&gt;Всех с наступающим новым годом!&lt;/p&gt;
 
 &lt;p&gt;Сегодня в 13:00 приглашаем принять участие в мини-корпоративе на 4-м этаже.&lt;/p&gt;
@@ -23,8 +23,8 @@
     
       <item>
         <title>17.12.2020 будет отключено электричество</title>
-        <link>/2020/12/16/electricity-down.html</link>
-        <guid isPermaLink="true">/2020/12/16/electricity-down.html</guid>
+        <link>/it/2020/12/16/electricity-down.html</link>
+        <guid isPermaLink="true">/it/2020/12/16/electricity-down.html</guid>
         <description>&lt;p&gt;В здании будет отключено электричество с 12:00 по 16:00.&lt;/p&gt;
 
 &lt;p&gt;Специалистам в НО в случае вопросов, звоните на сотовый.&lt;/p&gt;
@@ -36,8 +36,8 @@
     
       <item>
         <title>График отпусков на 2021</title>
-        <link>/2020/12/13/new-holidays.html</link>
-        <guid isPermaLink="true">/2020/12/13/new-holidays.html</guid>
+        <link>/it/2020/12/13/new-holidays.html</link>
+        <guid isPermaLink="true">/it/2020/12/13/new-holidays.html</guid>
         <description>&lt;p&gt;По согласованию с графиком регламентных работ в НО установлен график отпусков для отдела ЭТИ на 2021 год.&lt;/p&gt;
 
 &lt;table&gt;
@@ -76,11 +76,11 @@
     
       <item>
         <title>Про базу знаний</title>
-        <link>/2020/11/30/education.html</link>
-        <guid isPermaLink="true">/2020/11/30/education.html</guid>
+        <link>/it/2020/11/30/education.html</link>
+        <guid isPermaLink="true">/it/2020/11/30/education.html</guid>
         <description>&lt;p&gt;Напоминем, что на сетевом диске Y:/ есть документации, туториалы и книги для самообразования.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/knowledge-base.jpg&quot; alt=&quot;Geometric pattern with fading gradient&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/it/assets/img/knowledge-base.jpg&quot; alt=&quot;Geometric pattern with fading gradient&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;С их помощью также можно самостоятельно разобраться с незнакомой вам проблемой.&lt;/p&gt;
 

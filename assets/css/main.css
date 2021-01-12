@@ -445,3 +445,17 @@ header h1 {
 #post-nav .post-nav-post+.post-nav-post {
 	margin-top: 1em
 }
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+
+td,
+th {
+	padding: 0
+}
+
+.gist table tbody tr td {
+	box-sizing: content-box
+}

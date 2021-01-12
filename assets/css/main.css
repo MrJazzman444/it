@@ -448,7 +448,10 @@ header h1 {
 
 table {
 	border-collapse: collapse;
-	border-spacing: 0
+	border-spacing: 0;
+	table-layout: fixed;
+	width: 100%;
+	word-wrap: break-word
 }
 
 td,
@@ -458,4 +461,8 @@ th {
 
 .gist table tbody tr td {
 	box-sizing: content-box
+}
+
+table {
+	margin: 1em 0
 }
